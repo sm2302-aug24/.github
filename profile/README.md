@@ -13,9 +13,9 @@ Dr. Haziq Jamil *[Assistant Professor in Statistics]* | https://haziqj.ml
 
 ## Resources
 
-- [Syllabus](https://raw.githubusercontent.com/sm2302-aug23/lectures/main/others/sm2302-syllabus.pdf) **IMPORTANT!**
-- [Getting started guide](https://raw.githubusercontent.com/sm2302-aug23/lectures/main/others/getting_started.pdf)
-- [Lecture slides](https://github.com/sm2302-aug23/lectures)
+- [Syllabus](https://raw.githubusercontent.com/sm2302-aug24/material/main/others/sm2302-syllabus.pdf) **IMPORTANT!**
+- [Getting started guide](https://raw.githubusercontent.com/sm2302-aug24/material/main/others/getting_started.pdf)
+- [Lecture slides](https://github.com/sm2302-aug24/material)
 
 ## Past student work
 
